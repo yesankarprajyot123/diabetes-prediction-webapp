@@ -6,6 +6,8 @@ A Machine Learning web application that predicts the likelihood of diabetes usin
 
 https://diabetes-prediction-prajyot.streamlit.app
 
+---
+
 ## 📌 Project Overview
 
 The Diabetes Prediction System predicts whether a patient is likely to have diabetes based on health indicators such as:
@@ -20,6 +22,34 @@ The Diabetes Prediction System predicts whether a patient is likely to have diab
 - Age
 
 The model is trained using the Pima Indians Diabetes Dataset and Logistic Regression algorithm.
+
+---
+
+## 📸 Application Preview
+
+### Homepage
+
+![Homepage](images/homepage.png)
+
+### Low Risk Prediction
+
+![Low Risk Prediction](images/prediction_low_risk.png)
+
+### High Risk Prediction
+
+![High Risk Prediction](images/prediction_high_risk.png)
+
+---
+
+## ✨ Project Highlights
+
+- End-to-End Machine Learning Project
+- Logistic Regression Classification Model
+- Data Cleaning and Feature Scaling
+- Exploratory Data Analysis (EDA)
+- Interactive Streamlit Web Application
+- Real-Time Diabetes Risk Prediction
+- Deployed on Streamlit Cloud
 
 ---
 
@@ -54,7 +84,7 @@ The model is trained using the Pima Indians Diabetes Dataset and Logistic Regres
 
 - Algorithm: Logistic Regression
 - Classification Problem: Diabetes Prediction
-- Model Accuracy: 78% *(Update with your actual accuracy)*
+- Model Accuracy: 78%
 
 ---
 
@@ -76,6 +106,9 @@ Diabetes-Prediction-WebApp/
 │   └── scaler.pkl
 │
 ├── images/
+│   ├── homepage.png
+│   ├── prediction_low_risk.png
+│   └── prediction_high_risk.png
 │
 └── notebooks/
     └── diabetes_prediction.ipynb
@@ -113,26 +146,22 @@ streamlit run app.py
 
 ## 👨‍💻 Developer
 
-**Prajyot Yesankar**
+### Prajyot Yesankar
 
 B.Tech Computer Science & Design
 
-Interested in:
-- Data Analytics
-- Data Science
-- SQL
-- Power BI
-- Python
-- Machine Learning
+Passionate about Data Analytics, Data Science, Machine Learning, Python, SQL, and Power BI. I enjoy building real-world projects that solve practical business and healthcare problems.
 
 ---
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/prajyot-yesankar-79215b258/
-- GitHub: https://github.com/yesankarprajyot123
-- Email: yesankarprajyot@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/prajyot-yesankar-79215b258/
+- 💻 GitHub: https://github.com/yesankarprajyot123
+- 📧 Email: yesankarprajyot@gmail.com
 
 ---
 
-⭐ If you like this project, feel free to give it a star on GitHub.
+⭐ If you found this project useful, feel free to give it a star on GitHub.
+
+❤️ Developed by Prajyot Yesankar
